@@ -12,7 +12,6 @@ spring:
     groovy:
         template:
             check-template-location: false
-
 ---
 grails:
     mime:
